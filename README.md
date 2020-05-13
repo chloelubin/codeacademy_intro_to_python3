@@ -2,13 +2,21 @@
 
 
 +-----------------------+----------------+--+
-|     location_type     | percent_change |  |
+|          |  |  |
 +-----------------------+----------------+--+
-| retail and recreation |         -61.33 |  |
-| transit stations      |         -57.02 |  |
-| parks                 |         -40.16 |  |
-| workplaces            |         -36.77 |  |
-| grocery and pharmacy  |         -25.33 |  |
-| residential areas     |          20.59 |  |
+|  |         -61.33 |  |
+|       |         -57.02 |  |
+|                  |         -40.16 |  |
+|             |         -36.77 |  |
+|   |         -25.33 |  |
+|  areas     |          20.59 |  |
 +-----------------------+----------------+--+
 
+| location_type         | percent_change |
+| --------------------- |:--------------:| -----:|
+| retail and recreation | right-aligned | $1600 |
+| transit stations      | centered      |   $12 |
+| parks                 | are neat      |    $1 |
+| workplaces            | 
+| grocery and pharmacy  | 
+| residential           | 
